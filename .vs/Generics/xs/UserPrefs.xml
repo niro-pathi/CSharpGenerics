@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{E88BB363-8353-4B2C-88E8-0D46F75B27DE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="test/Generics.Tests/UnitTest1.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E88BB363-8353-4B2C-88E8-0D46F75B27DE}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Generics" expanded="True">
+          <Node name="Generics" expanded="True" selected="True">
             <Node name="src" expanded="True">
               <Node name="Generics" expanded="True" />
             </Node>
             <Node name="test" expanded="True">
               <Node name="Generics.Tests" expanded="True">
-                <Node name="UnitTest1.cs" selected="True" />
+                <Node name="Dependencies" expanded="True" />
               </Node>
             </Node>
           </Node>

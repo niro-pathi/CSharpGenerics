@@ -28,6 +28,5 @@ namespace Generics.Tests
             Assert.Equal("Test 02", stack.Pop());
             Assert.Equal("Test 01", stack.Pop());
         }
-
     }
 }
