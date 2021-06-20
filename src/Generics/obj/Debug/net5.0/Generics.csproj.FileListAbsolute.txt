@@ -1,0 +1,15 @@
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/bin/Debug/net5.0/Generics.deps.json
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/bin/Debug/net5.0/Generics.runtimeconfig.json
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/bin/Debug/net5.0/Generics.runtimeconfig.dev.json
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/bin/Debug/net5.0/Generics.dll
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/bin/Debug/net5.0/ref/Generics.dll
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/bin/Debug/net5.0/Generics.pdb
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/obj/Debug/net5.0/Generics.csproj.AssemblyReference.cache
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/obj/Debug/net5.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/obj/Debug/net5.0/Generics.AssemblyInfoInputs.cache
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/obj/Debug/net5.0/Generics.AssemblyInfo.cs
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/obj/Debug/net5.0/Generics.csproj.CoreCompileInputs.cache
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/obj/Debug/net5.0/Generics.dll
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/obj/Debug/net5.0/ref/Generics.dll
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/obj/Debug/net5.0/Generics.pdb
+/Users/np351100/apps/DotNetProjects/generics/src/Generics/obj/Debug/net5.0/Generics.genruntimeconfig.cache
